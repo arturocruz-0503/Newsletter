@@ -19,8 +19,8 @@ Desarrollar una página web usando HTML y CSS que permita a los usuarios suscrib
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/arturocruz-0503/Newsletter
+Deploy: https://arturocruz-0503.github.io/Newsletter/
 ---
 
 ## 📝 Reflexión
